@@ -1,0 +1,8 @@
+numpy
+opencv-python
+tensorflow
+scikit-learn
+kaggle
+xmltodict
+carla
+matplotlib
